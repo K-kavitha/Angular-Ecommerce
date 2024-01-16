@@ -1,0 +1,150 @@
+{
+  "seller": [
+    {
+      "name": "sam sidhu",
+      "email": "sam@seller.com",
+      "password": "abc@123",
+      "id": 2
+    },
+    {
+      "name": "peter",
+      "password": "abc@123",
+      "email": "peter@test.com",
+      "id": 3
+    },
+    {
+      "name": "bruce",
+      "password": "abc@123",
+      "email": "bruce@test.com",
+      "id": 4
+    },
+    {
+      "name": "anil",
+      "password": "abc123",
+      "email": "anil@test.com",
+      "id": 5
+    },
+    {
+      "name": "alena",
+      "password": "abc123",
+      "email": "alena@test.com",
+      "id": 6
+    },
+    {
+      "name": "sam",
+      "password": "abc@123",
+      "email": "sam@test.com",
+      "id": 7
+    },
+    {
+      "name": "bhasker",
+      "password": "abc@123",
+      "email": "bhasker@test.com",
+      "id": 8
+    },
+    {
+      "name": "peter",
+      "Password": "abc@123",
+      "email": "peter@test.com",
+      "id": 9
+    },
+    {
+      "name": "peter joy",
+      "Password": "abc@123",
+      "email": "peterjoy@test.com",
+      "id": 10
+    },
+    {
+      "name": "pavun",
+      "Password": "Pavun@123",
+      "email": "pavun@test.com",
+      "id": 11
+    },
+    {
+      "name": "pavun",
+      "Password": "Pavun@123",
+      "email": "pavun@test.com",
+      "id": 12
+    },
+    {
+      "name": "",
+      "Password": "",
+      "email": "",
+      "id": 13
+    },
+    {
+      "name": "Kavitha",
+      "Password": "kavi@123",
+      "email": "kavitha@test.com",
+      "id": 14
+    },
+    {
+      "name": "",
+      "Password": "",
+      "email": "",
+      "id": 15
+    },
+    {
+      "name": "vijay",
+      "Password": "vijay@123",
+      "email": "vijay@test.com",
+      "id": 16
+    },
+    {
+      "name": "vijay",
+      "Password": "abc@123",
+      "email": "vijay@test.ccom",
+      "id": 17
+    },
+    {
+      "name": "",
+      "Password": "",
+      "email": "",
+      "id": 18
+    },
+    {
+      "name": "",
+      "Password": "",
+      "email": "",
+      "id": 19
+    }
+  ],
+  "products": [
+    {
+      "name": "Tshirt",
+      "price": "250",
+      "category": "Cotton Clothe",
+      "color": "Black",
+      "description": "Grey cotton blend round neck T-shirt ",
+      "image": "https://cdn-images.farfetch-contents.com/15/90/27/01/15902701_36200228_1000.jpg",
+      "id": 1
+    },
+    {
+      "name": "Tshirt",
+      "price": "798",
+      "category": "Cotton Clothe",
+      "color": "Black&White",
+      "description": "Mermaid short-sleeved cotton T-shirt ",
+      "image": "https://cdn-images.farfetch-contents.com/20/16/98/42/20169842_50549921_1000.jpg",
+      "id": 3
+    },
+    {
+      "name": "Tshirt",
+      "price": "567",
+      "category": "Cotton 100%",
+      "color": "Black",
+      "description": "Logo-print crew-neck sweatshirt\n\n",
+      "image": "https://cdn-images.farfetch-contents.com/19/82/94/57/19829457_44513117_1000.jpg",
+      "id": 5
+    },
+    {
+      "name": "Jacket",
+      "price": "1200",
+      "category": "Bovine leather",
+      "color": "Black",
+      "description": "Logo-patch varsity jacket",
+      "image": "https://cdn-images.farfetch-contents.com/20/22/21/11/20222111_50197710_1000.jpg",
+      "id": 6
+    }
+  ]
+}
